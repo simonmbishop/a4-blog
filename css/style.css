@@ -23,7 +23,7 @@ img {
 a {
 	font-family: 'Bangers', cursive;
 	font-size: 25px;
-	color: white;
+	color: blue;
 	margin-right: 105px;
 }
 
@@ -43,3 +43,9 @@ p {
  	font-family: 'EB Garamond', serif;
  	font-size: 27px;
  }
+
+ p3 {
+ 	font-family: 'EB Garamond', serif;
+ 	font-size: 27px;
+ }
+
